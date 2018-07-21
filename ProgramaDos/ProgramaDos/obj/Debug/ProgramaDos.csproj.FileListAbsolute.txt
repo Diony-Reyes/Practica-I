@@ -1,0 +1,6 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDos\ProgramaDos\bin\Debug\ProgramaDos.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDos\ProgramaDos\bin\Debug\ProgramaDos.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDos\ProgramaDos\bin\Debug\ProgramaDos.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDos\ProgramaDos\obj\Debug\ProgramaDos.pdb

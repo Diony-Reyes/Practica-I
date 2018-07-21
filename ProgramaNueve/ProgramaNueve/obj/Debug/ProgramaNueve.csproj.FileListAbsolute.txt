@@ -1,0 +1,7 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\bin\Debug\ProgramaNueve.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\bin\Debug\ProgramaNueve.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\bin\Debug\ProgramaNueve.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\obj\Debug\ProgramaNueve.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\obj\Debug\ProgramaNueve.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\obj\Debug\ProgramaNueve.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaNueve\ProgramaNueve\obj\Debug\ProgramaNueve.pdb

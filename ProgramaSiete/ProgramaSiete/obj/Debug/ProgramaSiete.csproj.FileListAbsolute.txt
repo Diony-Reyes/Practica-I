@@ -1,0 +1,7 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\bin\Debug\ProgramaSiete.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\bin\Debug\ProgramaSiete.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\bin\Debug\ProgramaSiete.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\obj\Debug\ProgramaSiete.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\obj\Debug\ProgramaSiete.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\obj\Debug\ProgramaSiete.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaSiete\ProgramaSiete\obj\Debug\ProgramaSiete.pdb

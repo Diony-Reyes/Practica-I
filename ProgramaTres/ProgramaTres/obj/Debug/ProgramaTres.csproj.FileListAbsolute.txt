@@ -1,0 +1,7 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\bin\Debug\ProgramaTres.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\bin\Debug\ProgramaTres.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\bin\Debug\ProgramaTres.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\obj\Debug\ProgramaTres.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\obj\Debug\ProgramaTres.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\obj\Debug\ProgramaTres.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaTres\ProgramaTres\obj\Debug\ProgramaTres.pdb

@@ -1,0 +1,7 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\bin\Debug\ProgramaDiez.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\bin\Debug\ProgramaDiez.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\bin\Debug\ProgramaDiez.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\obj\Debug\ProgramaDiez.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\obj\Debug\ProgramaDiez.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\obj\Debug\ProgramaDiez.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaDiez\ProgramaDiez\obj\Debug\ProgramaDiez.pdb

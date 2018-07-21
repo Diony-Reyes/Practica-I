@@ -1,0 +1,6 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaOcho\ProgramaOcho\bin\Debug\ProgramaOcho.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaOcho\ProgramaOcho\bin\Debug\ProgramaOcho.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaOcho\ProgramaOcho\bin\Debug\ProgramaOcho.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaOcho\ProgramaOcho\obj\Debug\ProgramaOcho.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaOcho\ProgramaOcho\obj\Debug\ProgramaOcho.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaOcho\ProgramaOcho\obj\Debug\ProgramaOcho.pdb

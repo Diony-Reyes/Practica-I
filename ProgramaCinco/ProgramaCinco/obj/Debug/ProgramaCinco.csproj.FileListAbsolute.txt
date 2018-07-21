@@ -1,0 +1,7 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\bin\Debug\ProgramaCinco.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\bin\Debug\ProgramaCinco.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\bin\Debug\ProgramaCinco.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.csprojResolveAssemblyReference.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCinco\ProgramaCinco\obj\Debug\ProgramaCinco.pdb

@@ -1,0 +1,6 @@
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCuatro\ProgramaCuatro\bin\Debug\ProgramaCuatro.exe.config
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCuatro\ProgramaCuatro\bin\Debug\ProgramaCuatro.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCuatro\ProgramaCuatro\bin\Debug\ProgramaCuatro.pdb
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.csproj.CoreCompileInputs.cache
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.exe
+C:\Users\niove\Desktop\Documentos\C# Orientado a Objetos\Practica I\ProgramaCuatro\ProgramaCuatro\obj\Debug\ProgramaCuatro.pdb
